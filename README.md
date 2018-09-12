@@ -1,2 +1,2 @@
 # student_management
-It is a simple student database management system using php, mysql database
+This is a project on student database management system using php, css, bootstrap and mysql database.
